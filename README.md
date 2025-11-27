@@ -126,12 +126,7 @@ For candidate properties, the repo includes simple helpers to:
 ```text
 oakland-real-estate/
 ├─ R/
-│  ├─ 01_Redfin-BART-School-HOLC-Amenities-Data-Clean.ipynb
-│  ├─ 02_Oakland Real Estate Assessment Group 11-Final Submission.ipynb
-├─ notebooks/
-│  ├─ 01_Redfin-BART-School-HOLC-Amenities-Data-Clean.ipynb
 ├─ data_sample/
-│  ├─ Oakland Real Estate Assessment Group 11-Final Submission.html
+├─ notebooks/
 ├─ slides/
-│  ├─ Oakland Real Estate Assessment Group 11-Final Submission.html
 └─ README.md
